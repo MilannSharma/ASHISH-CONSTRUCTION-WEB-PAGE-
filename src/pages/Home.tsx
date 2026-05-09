@@ -29,7 +29,7 @@ const Hero = () => {
           className="absolute inset-0 h-full w-full object-cover grayscale opacity-40 transition-transform duration-[10s] hover:scale-110"
           poster="/hero_slide_1.png"
         >
-          <source src="https://assets.mixkit.co/videos/preview/mixkit-modern-architecture-glass-building-4432-large.mp4" type="video/mp4" />
+          <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/Time_lapse_of_a_building_construction.webm/Time_lapse_of_a_building_construction.webm.720p.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 bg-charcoal/40" />
@@ -240,13 +240,13 @@ const Projects = () => {
     
     // Commercial
     { id: 5, title: "AXIS TRADE CENTER", category: "COMMERCIAL", image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop" },
-    { id: 6, title: "CRYSTAL PLAZA", category: "COMMERCIAL", image: "https://images.unsplash.com/photo-1479839672679-a46483c07921?q=80&w=2070&auto=format&fit=crop" },
+    { id: 6, title: "CRYSTAL PLAZA", category: "COMMERCIAL", image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2070&auto=format&fit=crop" },
     { id: 7, title: "ORION BUSINESS HUB", category: "COMMERCIAL", image: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2070&auto=format&fit=crop" },
     { id: 8, title: "METRO MALL", category: "COMMERCIAL", image: "https://images.unsplash.com/photo-1519567241046-7f570eee3ce6?q=80&w=2070&auto=format&fit=crop" },
 
     // Industrial
     { id: 9, title: "TITAN LOGISTICS", category: "INDUSTRIAL", image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop" },
-    { id: 10, title: "IRONCLAD PLANT", category: "INDUSTRIAL", image: "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?q=80&w=2070&auto=format&fit=crop" },
+    { id: 10, title: "IRONCLAD PLANT", category: "INDUSTRIAL", image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=2070&auto=format&fit=crop" },
     { id: 11, title: "POWERGRID STATION", category: "INDUSTRIAL", image: "https://images.unsplash.com/photo-1513828583688-c52646db42da?q=80&w=2070&auto=format&fit=crop" },
     { id: 12, title: "TECHNO REFINERY", category: "INDUSTRIAL", image: "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?q=80&w=2070&auto=format&fit=crop" },
   ];
